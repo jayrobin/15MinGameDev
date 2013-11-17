@@ -6,6 +6,6 @@ package ;
  */
 class Constants
 {
-	inline public static var TITLE:String = "GAME TITLE";
-	inline public static var DESCRIPTION:String = "GAME DESCRIPTION";
+	inline public static var TITLE:String = "AVOIDIMUS";
+	inline public static var DESCRIPTION:String = "Move with the mouse\nAvoid the red squares\n15MinGameDev challenge: 17 Nov 2013";
 }
