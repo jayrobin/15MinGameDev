@@ -1,0 +1,11 @@
+package $(PackageName);
+
+/**
+ * ...
+ * @author Blockjack
+ */
+class Constants
+{
+	inline public static var TITLE:String = "$(ProjectName)";
+	inline public static var DESCRIPTION:String = "GAME DESCRIPTION";
+}
