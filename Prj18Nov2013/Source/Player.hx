@@ -8,8 +8,8 @@ import org.flixel.FlxSprite;
  * @author Blockjack
  */
 class Player extends FlxSprite
-{
 	var jump:Int = 0;
+{
 	
 	public function new() 
 	{
